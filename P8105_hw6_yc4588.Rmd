@@ -308,4 +308,4 @@ cv_df %>%
 
 ```
 
-- According to the table and violin plot above, we can conclude that `model1` (main effects) has the highest rmse values, indicating the poorest performance among the three models and `my_model` has a lowest and more compact rmse distribution, suggesting it is the best performing model. `model2` (interaction effects) has a slightly higher rmse than `my_model`.
+- According to the violin plot above, we can conclude that `model1` (main effects) has the highest rmse values, indicating the poorest performance among the three models and `my_model` has a lowest and more compact rmse distribution, suggesting it is the best performing model. `model2` (interaction effects) has a slightly higher rmse than `my_model`.
